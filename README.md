@@ -39,7 +39,7 @@
  ###  实体关系联合抽取
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
- PURE  | NAACL 2021 | 使用了一种pipeline的方式超越了以前的模型  | 武乐飞 | [paper](https://aclanthology.org/2021.naacl-main.5/) | [code](https://github.com/princeton-nlp/PURE) 
+ PURE  | NAACL 2021 | 使用了一种pipeline而非joint的方式超越了以前的模型  | 武乐飞 | [paper](https://aclanthology.org/2021.naacl-main.5/) | [code](https://github.com/princeton-nlp/PURE) 
  
  ###  互补标签学习
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
