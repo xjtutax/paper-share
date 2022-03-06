@@ -52,4 +52,4 @@
  ### 交通流时序预测
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
- ASTGCN  |  AAAI 2019 | 提出基于注意力的时空图卷积网络来解决交通流预测问题  | 雷潇靓 | [paper](https://github.com/guoshnBJTU/ASTGCN-r-pytorch) | 暂无
+ ASTGCN  |  AAAI 2019 | 提出基于注意力的时空图卷积网络来解决交通流预测问题  | 雷潇靓 | [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3881) | [code](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
