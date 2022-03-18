@@ -33,7 +33,7 @@
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
  CasRel  | ACL 2020 | 解决三元组重叠  | 张宇航 | [paper](https://aclanthology.org/2020.acl-main.136/) | [code](https://github.com/weizhepei/CasRel) 
- QA-based | 2021 | 附加验证模型来提升关系抽取性能 | 王凯 | [paper](https://arxiv.org/abs/2104.02934) | [NO code，PPT](https://github.com/xjtutax/paper-share/blob/main/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/%E5%8F%A5%E5%AD%90%E7%BA%A7%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/%E7%8E%8B%E5%87%AF-3-18-%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB.pptx)
+ QA-based | 2021 | 附加问答验证模型来提升关系抽取性能 | 王凯 | [paper](https://arxiv.org/abs/2104.02934) | [NO code，PPT](https://github.com/xjtutax/paper-share/blob/main/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/%E5%8F%A5%E5%AD%90%E7%BA%A7%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/%E7%8E%8B%E5%87%AF-3-18-%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB.pptx)
  ###  篇章级/文档级关系抽取
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
