@@ -39,6 +39,7 @@
  ---- | ----- | ------ | ------ | ------ | ------ 
  GAIN  | EMNLP 2020 | 提出一种图聚合和推理网络用于文档级的关系抽取  | 赵子涵 | [paper](https://aclanthology.org/2020.emnlp-main.127/) | [code](https://github.com/DreamInvoker/GAIN) 
  Paths  | ACL 2021 | 启发式地选择有用的句子进行关系抽取  | 张宇航 | [paper](https://arxiv.org/abs/2106.01793) | [code](https://github.com/AndrewZhe/Three-Sentences-Are-All-You-Need) 
+ SSAN  | AAAI 2021 | 将实体结构依赖合并到标准的自注意力机制中  | 赵子涵 | [paper](https://arxiv.org/abs/2102.10249v1) | [code1](https://github.com/PaddlePaddle/Research/tree/master/KG/AAAI2021_SSAN), [code2](https://github.com/BenfengXu/SSAN) 
 
  ###  实体关系联合抽取
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
