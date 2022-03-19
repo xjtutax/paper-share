@@ -1,7 +1,7 @@
 # paper-share
 本项目是记录西安交通大学天地网实验室税务大数据小组线下论文分享会的文档，记录内容主要包括论文原文、分享ppt。
 
-## 知识图谱
+## 知识图谱 
 
 [相关论文阅读列表](https://github.com/xjtutax/paper-share/blob/main/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%88%97%E8%A1%A8.md)
 
