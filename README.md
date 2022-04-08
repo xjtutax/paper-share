@@ -68,11 +68,14 @@
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
  ASTGCN  |  AAAI 2019 | 提出基于注意力的时空图卷积网络来解决交通流预测问题  | 雷潇靓 | [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3881) | [code](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
- ### 异构图神经网络 |||||
+ ### 异构图神经网络 
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
  HetG  |  KDD 2019 | 提出HetGNN框架来解决异质图节点嵌入问题  | 王亦琛 | [paper](https://www3.nd.edu/~dial/publications/zhang_2019_heterogeneous.pdf) |  [code](https://github.com/chuxuzhang/KDD2019_HetGNN)
-
+ ### 图神经网络解释性 
+ 名字  | 发表  | 简介 | 分享人 | 原文 | 代码
+ ---- | ----- | ------ | ------ | ------ | ------ 
+ CF-GNNExplainer  |  AISTATS 2022 | 提出CF-GNNExplainer来解决图神经网络反事实解释问题  | 王亦琛 | [paper](https://a-lucic.github.io/talks/AISTATS_GNN.pdf) |  [code](https://github.com/a-lucic/cf-gnnexplainer)
 ### 噪声标签学习
 
 | 名字 | 发表     | 简介                                         | 分享人 | 原文                                          | 代码                                     |
