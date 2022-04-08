@@ -47,6 +47,7 @@
  ---- | ----- | ------ | ------ | ------ | ------ 
  PURE  | NAACL 2021 | 使用了一种pipeline而非joint的方式超越了以前的模型  | 武乐飞 | [paper](https://aclanthology.org/2021.naacl-main.5/) | [code](https://github.com/princeton-nlp/PURE) 
  TPLinker  | COLING20 | TPLinker将抽取标注框架统一为字符对链接问题，即Token Pair Linking problem,TPLinker是单阶段解码，训练和推断阶段抽取三元组不存在差异 | 张浩堃 | [paper](https://arxiv.org/pdf/2010.13415.pdf) | [code](https://github.com/131250208/TPlinker-joint-extraction) 
+ OneRel  | AAAI2022 | 提出单模块，单步骤解码的实体关系联合抽取方法 ，直接识别三元组，更好捕获三元组间的相互依赖| 张浩堃 | [paper](https://arxiv.org/abs/2203.05412) | [code](https://github.com/ssnvxia/OneRel) 
 
  ###  互补标签学习
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
