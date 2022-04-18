@@ -18,7 +18,7 @@
  LR-CNN  | IJCAI 2019 | 提出了带有rethinking机制的基于CNN的方法来合并词汇  | 王凯 | [paper](https://www.ijcai.org/proceedings/2019/692) | [code](https://github.com/guitaowufeng/LR-CNN) 
  FLAT  | ACL 2020 | 基于Transformer无损引入词汇信息及融合词汇信息动态结构  | 张载 | [paper](https://arxiv.org/abs/2004.11795) | [code](https://github.com/LeeSureman/Flat-Lattice-Transformer) 
  LEBERT | ACL 2021 | 通过Lexicon Adapter在Bert模型内部注入词汇信息 | 张载 | [paper](https://aclanthology.org/2021.acl-long.454/) | [code](https://github.com/liuwei1206/LEBERT) 
-
+  MIN | ACL2021 | 用于命名实体识别的模块化交互网络 | 王凯 | [paper](https://aclanthology.org/2021.acl-long.17.pdf) | 暂无,[PPT](https://github.com/xjtutax/papershare/blob/main/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/%E6%89%81%E5%B9%B3%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB/%E7%8E%8B%E5%87%AF-4-15-%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB.pptx) 
 ### 嵌套/非连续实体识别
 名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
@@ -27,7 +27,7 @@
  HIT  | EMNLP 2020  | 利用头尾对和令牌交互序列完成实体分类，降低复杂度  | 王凯 | [paper](https://aclanthology.org/2020.emnlp-main.486/) | 暂无
  Triaffine  | Arxiv预发布 | 提出了triaffine mechanism三仿射变换机制，融合多种异质信息 |武乐飞|[paper](https://arxiv.org/abs/2110.07480) | 暂无
  sodner  | ACL 2021 | 使用RE的思路同时识别嵌套和不连续实体 |张浩堃|[paper](https://aclanthology.org/2021.acl-long.372.pdf) | [code](https://github.com/foxlf823/sodner)
-  MIN | ACL2021 | 用于命名实体识别的模块化交互网络 | 王凯 | [paper](https://aclanthology.org/2021.acl-long.17.pdf) | 暂无,[PPT]() 
+
 
  ### 统一命名实体识别
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
