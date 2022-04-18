@@ -27,6 +27,7 @@
  HIT  | EMNLP 2020  | 利用头尾对和令牌交互序列完成实体分类，降低复杂度  | 王凯 | [paper](https://aclanthology.org/2020.emnlp-main.486/) | 暂无
  Triaffine  | Arxiv预发布 | 提出了triaffine mechanism三仿射变换机制，融合多种异质信息 |武乐飞|[paper](https://arxiv.org/abs/2110.07480) | 暂无
  sodner  | ACL 2021 | 使用RE的思路同时识别嵌套和不连续实体 |张浩堃|[paper](https://aclanthology.org/2021.acl-long.372.pdf) | [code](https://github.com/foxlf823/sodner)
+  MIN | ACL2021 | 用于命名实体识别的模块化交互网络 | 王凯 | [paper](https://aclanthology.org/2021.acl-long.17.pdf) | 暂无,[PPT]() 
 
  ### 统一命名实体识别
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
