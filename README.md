@@ -4,7 +4,9 @@
 ## 实验室组会分享
 | 名字                                       | 简介                      | 分享人 | 分享时间  |分享PPT | 原文
 | ------------------------------------------ | ------------------------- | ------ | --------- |---------|---------
-| A review of uncertainty quantification in deep learning | 不确定性估计综述 | 雷潇靓 | 2022.04.01 |[PPT](图神经网络/交通流量预测/22.04.01_不确定性估计.pptx)|[paper1](https://linkinghub.elsevier.com/retrieve/pii/S1566253521001081), [paper2](http://arxiv.org/abs/2107.03342)|
+| A survey of prompt learning | 自然语言处理新范式：提示学习 | 袁楷喆 | 2022.03.31 |[PPT](图神经网络/交通流量预测/22.04.01_不确定性估计.pptx)|[Knowledgeable Prompt-tuning.pdf](知识图谱/prompt_learning/Knowledgeable%20Prompt-tuning.pdf)|
+| A review of uncertainty quantification in deep learning | 不确定性估计综述 | 雷潇靓 | 2022.04.01 |[PPT](知识图谱/prompt_learning/prompt_learning%E6%8A%A5%E5%91%8A.pptx)|[paper1](https://linkinghub.elsevier.com/retrieve/pii/S1566253521001081), [paper2](http://arxiv.org/abs/2107.03342)|
+
 
 ## 知识图谱 
 
