@@ -79,6 +79,7 @@
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
  ASTGCN  |  AAAI 2019 | 提出基于注意力的时空图卷积网络来解决交通流预测问题  | 雷潇靓 | [paper](https://aaai.org/ojs/index.php/AAAI/article/view/3881) | [code](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
+ ASTGNN  |  TKDE 2021 | 提出基于注意力的时空图神经网络来解决交通流预测问题  | 雷潇靓 | [paper](https://ieeexplore.ieee.org/document/9346058) | [code](https://github.com/guoshnBJTU/ASTGNN)
  ### 异构图神经网络 
  名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
