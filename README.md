@@ -63,6 +63,7 @@
  ---- | ----- | ------ | ------ | ------ | ------ 
  LM  |  ECCV 2018 Oral | 提供了一种无偏地估计转移概率的方法  | 吴雨萱 | [paper](https://arxiv.org/abs/1711.09535) | 暂无
  GAN-CL  | IEEE 2021 | 利用生成对抗机制来提高从互补标签学习的性能  | 吴雨萱 | [paper](https://ieeexplore.ieee.org/document/9489374) | 暂无 
+ DRCL  | ICME 2021 | 提出了一种新的互补学习方法——双正则化互补学习  | 吴雨萱 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428433) | 暂无 
 
 ### 相关学习与调研
 
