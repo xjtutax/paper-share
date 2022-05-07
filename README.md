@@ -90,9 +90,11 @@
  ---- | ----- | ------ | ------ | ------ | ------ 
  CF-GNNExplainer  |  AISTATS 2022 | 提出CF-GNNExplainer来解决图神经网络反事实解释问题  | 王亦琛 | [paper](https://a-lucic.github.io/talks/AISTATS_GNN.pdf) |  [code](https://github.com/a-lucic/cf-gnnexplainer)
 ### 噪声标签学习
-
 | 名字 | 发表     | 简介                                         | 分享人 | 原文                                          | 代码                                     |
 | ---- | -------- | -------------------------------------------- | ------ | --------------------------------------------- | ---------------------------------------- |
 | HOC  | ICML2021 | 提供了一种新的基于聚类的噪声转移矩阵估计方法 | 王嘉祥 | [paper](https://arxiv.org/pdf/2102.05291.pdf) | [code](https://github.com/UCSC-REAL/HOC) |
 | VolMinNet  | ICML2021 | 提出了一种无需锚点的端到端的噪声标签学习方法 | 吴雨萱 | [paper](https://arxiv.org/pdf/2102.02400.pdf) | [code](https://github.com/xuefeng-li1/Provably-end-to-end-label-noise-learning-without-anchor-points) |
-
+### 图神经网络鲁棒性
+ 名字  | 发表        | 简介                  | 分享人 | 原文 | 代码
+ ------|-----------|---------------------| ------ | ------ | -------
+ RoHe  | AAAI 2022 | 第一个系统研究了异构图神经网络的鲁棒性 | 刘慧祥 | [paper](http://www.shichuan.org/doc/132.pdf) | 暂无 |
