@@ -21,6 +21,7 @@
  FLAT  | ACL 2020 | 基于Transformer无损引入词汇信息及融合词汇信息动态结构  | 张载 | [paper](https://arxiv.org/abs/2004.11795) | [code](https://github.com/LeeSureman/Flat-Lattice-Transformer) 
  LEBERT | ACL 2021 | 通过Lexicon Adapter在Bert模型内部注入词汇信息 | 张载 | [paper](https://aclanthology.org/2021.acl-long.454/) | [code](https://github.com/liuwei1206/LEBERT) 
   MIN | ACL2021 | 用于命名实体识别的模块化交互网络 | 王凯 | [paper](https://aclanthology.org/2021.acl-long.17.pdf) | 暂无
+ Template-base | ACL2021 | 使用提示学习去解决少样本NER| 张浩堃 | [paper](https://aclanthology.org/2021.findings-acl.161.pdf) | [code](https://github.com/Nealcly/templateNER)
 ### 嵌套/非连续实体识别
 名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
