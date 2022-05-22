@@ -68,7 +68,7 @@ Nested NER | ACL-2022&IJCAI-2022 | Some Nested NER papers in 2022 |武乐飞|/ |
 ### 对话&问答 
 名字  | 发表  | 简介 | 分享人 | 原文 | 代码
  ---- | ----- | ------ | ------ | ------ | ------ 
- SREM  | ACL 2022 | 解耦式子图抽取 |王凯|[paper](https://arxiv.org/abs/2202.13296) |[code](https://github.com/RUCKBReasoning/SubgraphRetrievalKBQA) 
+ SREM  | ACL 2022 | 基于检索的与推理解耦的子图抽取方法 |王凯|[paper](https://arxiv.org/abs/2202.13296) |[code](https://github.com/RUCKBReasoning/SubgraphRetrievalKBQA) 
 
 ### 相关学习与调研
 
